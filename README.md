@@ -7,4 +7,4 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-https://github.com/AdityaChoubey22/AdityaChoubey22/the-only-winning-move.gif
+https://github.com/AdityaChoubey22/AdityaChoubey22/blob/main/the-only-winning-move.gif
